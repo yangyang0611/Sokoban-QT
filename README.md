@@ -14,11 +14,11 @@
 
 *caustion(when move left key, wait for 2 sec for the triggle action, or the game will run wrong)
 ## Features
-    `Main menu`: Start,Restart, Quit, Choose level (it is a  menuBar at the top of the dialog)
-    `Game items`: get boom(purple dot), then can switch level(level 1->level 2 || level 2 ->level 1)
-    `Collection`: get coins(big yellow dot), then can add 10 score
-    `Other special method`: get candy, win the game directly
-    `Number of step`: at the bottom of map(caution: it will continue count when player is moving except meeting the wall, so nedd to be careful)
+    Main menu: Start,Restart, Quit, Choose level (it is a  menuBar at the top of the dialog)
+    Game items: get boom(purple dot), then can switch level(level 1->level 2 || level 2 ->level 1)
+    Collection: get coins(big yellow dot), then can add 10 score
+    Other special method: get candy, win the game directly
+    Number of step: at the bottom of map(caution: it will continue count when player is moving except meeting the wall, so need to be careful)
 ## Bonus
-    `Player state`: when move direction, player will have 4 state(front face, back face, left face, right face)
+    Player state: when move direction, player will have 4 state(front face, back face, left face, right face)
 
